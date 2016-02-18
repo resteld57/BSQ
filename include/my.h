@@ -1,15 +1,5 @@
-/*
-** flag_fonction.h for  in 
-** 
-** Made by Dylan RESTELLI
-** Login   <restel_d@epitech.net>
-** 
-** Started on  Mon Nov 16 10:42:40 2015 Dylan RESTELLI
-** Last update Mon Dec 21 15:22:10 2015 Dylan RESTELLI
-*/
-
 #ifndef	MY_H_
-#define	MY_H_ 
+#define	MY_H_
 
 typedef	struct	s_struct
 {

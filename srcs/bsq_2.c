@@ -1,13 +1,3 @@
-/*
-** bsq_2.c for bsq_2 in
-**
-** Made by Dylan RESTELLI
-** Login   <restel_d@epitech.net>
-**
-** Started on  Mon Dec 21 15:24:57 2015 Dylan RESTELLI
-** Last update Thu Feb 18 18:08:06 2016 restel_d
-*/
-
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/stat.h>
