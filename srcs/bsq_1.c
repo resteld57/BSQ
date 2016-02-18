@@ -1,11 +1,11 @@
 /*
-** bsq_1.c for bsq_1 in 
-** 
+** bsq_1.c for bsq_1 in
+**
 ** Made by Dylan RESTELLI
 ** Login   <restel_d@epitech.net>
-** 
+**
 ** Started on  Mon Dec 21 15:24:32 2015 Dylan RESTELLI
-** Last update Thu Dec 24 21:18:48 2015 Dylan RESTELLI
+** Last update Thu Feb 18 18:07:57 2016 restel_d
 */
 
 #include <stdio.h>
@@ -14,7 +14,7 @@
 #include <fcntl.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include "include/my.h"
+#include "../include/my.h"
 
 #define FAIL_OPEN "camarchepas\n"
 

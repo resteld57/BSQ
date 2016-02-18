@@ -5,7 +5,7 @@
 ## Login   <restel_d@epitech.net>
 ## 
 ## Started on  Mon Dec 21 15:28:49 2015 Dylan RESTELLI
-## Last update Mon Dec 21 15:29:22 2015 Dylan RESTELLI
+## Last update Thu Feb 18 18:07:15 2016 restel_d
 ##
 
 CC      =       gcc
@@ -14,8 +14,8 @@ RM      =       rm -f
 
 NAME	=	bsq
 
-SRCS	=	bsq_1.c \
-		bsq_2.c
+SRCS	=	srcs/bsq_1.c \
+		srcs/bsq_2.c
 
 OBJS	=	$(SRCS:.c=.o)
 
