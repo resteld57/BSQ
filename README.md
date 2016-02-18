@@ -4,11 +4,11 @@ Le projet BSQ est un projet qui cherche une surface de taille maximale dans une 
 Pour compiler le programme lancer dans un terminal la commande "make re", vérifier que 'make' est installer.
 
 Lancer le programme de cette façon :
-$ > ./bsq "nom_de_la_map"
+$ > ./bsq map/nom_de_la_map
 
 Exemple :
 
-$ > cat map10
+$ > cat map/map10
 10
 o.........
 ..........
@@ -21,7 +21,7 @@ o.........
 ..........
 ..........
 
-$ > ./bsq map10
+$ > ./bsq map/map10
 o..xxxxxx.
 ...xxxxxx.
 .ooxxxxxx.
