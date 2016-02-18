@@ -9,6 +9,7 @@ $ > ./bsq map/nom_de_la_map
 Exemple :
 
 $ > cat map/map10
+
 10
 o.........
 ..........
@@ -22,6 +23,7 @@ o.........
 ..........
 
 $ > ./bsq map/map10
+
 o..xxxxxx.
 ...xxxxxx.
 .ooxxxxxx.
